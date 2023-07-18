@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <struct>
-    <Annotator>Default</Annotator>
-    <ScrollSpeed>3</ScrollSpeed>
+    <Annotator>Anna Novoseltseva</Annotator>
+    <ScrollSpeed>1</ScrollSpeed>
     <SaveFileFormat>.mat</SaveFileFormat>
+    <MinObjectSize>5</MinObjectSize>
 </struct>
